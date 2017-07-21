@@ -1,5 +1,4 @@
 # Syncity_test_PREDATOR
 Syncity - test PREDATOR
 
-2017.07.19 - update .gitignore
-		   - import files from Test.zip
+Add night vision, add thermal vision, add EM vision, add controll vision on btn
